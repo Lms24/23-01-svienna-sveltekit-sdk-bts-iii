@@ -41,7 +41,3 @@ But also:
 - New SDK Major version (v8)
 - Instrument server `actions`
 - Edge runtime support
-
----
-
-Thank you!

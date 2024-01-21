@@ -187,3 +187,14 @@
 <Markdown name="challenges-3.md" external />
 
 <Markdown name="outro.md" external />
+
+<Slide>
+	<div class="flex flex-col gap-8 items-center">
+		<p>Thank you!</p>
+
+		<div class="flex flex-col">
+			<span class="text-sm">Slides:</span>
+			<img src="/qr.png" alt="QR code to slides" class="w-40 h-40" />
+		</div>
+	</div>
+</Slide>
