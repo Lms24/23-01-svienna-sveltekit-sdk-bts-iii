@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>Presentation</title>
+	<title>Building an Error and Performance Monitoring SDK for SvelteKit</title>
 </svelte:head>
 
 <Slides />

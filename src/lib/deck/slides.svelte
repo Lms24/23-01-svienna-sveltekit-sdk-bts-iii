@@ -16,9 +16,10 @@
 		const deck = new Reveal({
 			plugins: [Markdown, Highlight, Notes],
 			autoAnimateEasing: 'ease',
-			autoAnimateDuration: 1,
-			hash: true
-			// controls: false,
+			autoAnimateDuration: 0.2,
+			transition: 'none',
+			hash: true,
+			controls: false
 			// progress: false
 		})
 
