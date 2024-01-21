@@ -66,14 +66,14 @@
 		`}
 	</Code>
 
-	<div class="fragment flex flex-col text-md items-center">
+	<!-- <div class="fragment flex flex-col text-md items-center">
 		<p>Alternatives</p>
 		<ul>
 			<li><code>Proxy</code> API</li>
 			<li>Node: <code>diagnostics_channel</code> API</li>
 			<li>Node: module loaders</li>
 		</ul>
-	</div>
+	</div> -->
 </Slide>
 
 <Slide>
@@ -81,7 +81,7 @@
 
 	<ul>
 		<li>Instrument global APIs (e.g. <code>window.onerror</code>)</li>
-		<li class="fragment">Capture errors, spans (+more)</li>
+		<li class="fragment">Capture errors, spans & more</li>
 		<li class="fragment">Hold contextual, scoped data (e.g. <code>setUser()</code>)</li>
 		<li class="fragment">Convert to <code>Event</code>, apply and process data</li>
 		<li class="fragment">Send events to Sentry</li>

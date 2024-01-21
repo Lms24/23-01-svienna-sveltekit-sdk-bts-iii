@@ -22,16 +22,17 @@
 
 ---
 
-### even more in the future 👀
+#### even more in the future 👀
 
-- `handleLoad` hooks ([coming soon](https://github.com/sveltejs/kit/pull/11313))
+`handleLoad` hooks ([coming soon](https://github.com/sveltejs/kit/pull/11313))
+
 
 ---
-
+<!-- .slide: data-visibility="hidden" -->
 ## Up Next?
 
 ---
-
+<!-- .slide: data-visibility="hidden" -->
 ### You tell us!
 
 On Github: [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)

@@ -1,10 +1,10 @@
 ### What We're gonna talk about:
 
-1. #### SDK Architecture
+1. SDK Architecture
    
-2. #### Challenges
-   
-3. #### Take-Aways & What's next
+2. Challenges
+  
+3. Take-Aways
   
 
 
