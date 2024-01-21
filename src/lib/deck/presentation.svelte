@@ -192,9 +192,10 @@
 	<div class="flex flex-col gap-8 items-center">
 		<p>Thank you!</p>
 
-		<div class="flex flex-col">
-			<span class="text-sm">Slides:</span>
-			<img src="/qr.png" alt="QR code to slides" class="w-40 h-40" />
+		<div class="flex flex-col text-sm gap-1">
+			<span class="">Slides:</span>
+			<img src="/qr.png" alt="QR code to slides" class="w-40 h-40 m-[0!important]" />
+			<a href="https://github.com/Lms24/svienna-sveltekit-sdk-bts">Github Repo</a>
 		</div>
 	</div>
 </Slide>
