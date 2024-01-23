@@ -13,7 +13,7 @@
 ## 1. SDK Architecture
 
 ---
-
+<!-- .slide: data-visibility="hidden" -->
 ### SDK Tasks
 
 - Instrument global APIs (e.g. `window.onerror`)

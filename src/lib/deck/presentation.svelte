@@ -52,7 +52,7 @@
 
 <Markdown name="intro.md" external />
 
-<Slide>
+<Slide hidden>
 	<h3>"Monkey Patching"</h3>
 
 	<Code id="code" lines="1|3-6">

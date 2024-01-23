@@ -20,7 +20,6 @@ export const load = async ({ fetch }) => {
 <!-- .element: class="fragment" -->
 
 ---
-
 Naive: Just start a span
 
 ```js [8-10|2|4-7,11]
@@ -38,7 +37,6 @@ export const load = async ({ fetch }) => startSpan({
 ```
 
 ---
-
 Pragmatic: Provide `load` wrapper
 
 ```js [5-7|2|4,8]
@@ -89,13 +87,14 @@ export const load = async ({ fetch }) => {
 
 ---
 
+- SvelteKit adds additional behaviour
+  - Warnings in dev mode
+  - Caching of load results
+  
 - We want to track `fetch` falls in load functions
   - Timing
   - Distributed Tracing
 
-- SvelteKit adds additional behaviour
-  - Warnings in dev mode
-  - Caching of load results
 
 - Timing problem!
 
